@@ -1,0 +1,34 @@
+{
+    "News": [
+        {
+            "_id": "638202b15f8e343bc0e572d7",
+            "id": 1,
+            "title": "Blogs-title",
+            "image": "images url",
+            "blogDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus quod ex quaerat reiciendis sunt. Eius tenetur ducimus quisquam, distinctio doloribus velit enim quos, odit porro error magni, perferendis cupiditate quod?",
+            "blogRef": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus",
+            "blogSpans": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus",
+            "__v": 0
+        },
+        {
+            "_id": "638202b15f8e343bc0e572d8",
+            "id": 2,
+            "title": "Blogs-title",
+            "image": "images url",
+            "blogDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus quod ex quaerat reiciendis sunt. Eius tenetur ducimus quisquam, distinctio doloribus velit enim quos, odit porro error magni, perferendis cupiditate quod?",
+            "blogRef": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus",
+            "blogSpans": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus",
+            "__v": 0
+        },
+        {
+            "_id": "638202b15f8e343bc0e572d9",
+            "id": 3,
+            "title": "Blogs-title",
+            "image": "images url",
+            "blogDetail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus quod ex quaerat reiciendis sunt. Eius tenetur ducimus quisquam, distinctio doloribus velit enim quos, odit porro error magni, perferendis cupiditate quod?",
+            "blogRef": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus",
+            "blogSpans": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus",
+            "__v": 0
+        }
+    ]
+}
